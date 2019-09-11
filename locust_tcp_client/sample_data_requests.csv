@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"TCP","send_message",2330,0,220,227,218,445,0,39.29
+"None","Total",2330,0,220,227,218,445,0,39.29
